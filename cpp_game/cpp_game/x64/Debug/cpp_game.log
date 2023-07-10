@@ -1,2 +1,6 @@
 ﻿  win32_platform.cpp
+E:\Programme\GitHub\cpp_game\cpp_game\cpp_game\renderer.cpp(63,9): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programme\GitHub\cpp_game\cpp_game\cpp_game\renderer.cpp(64,9): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programme\GitHub\cpp_game\cpp_game\cpp_game\renderer.cpp(65,9): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programme\GitHub\cpp_game\cpp_game\cpp_game\renderer.cpp(66,9): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
   cpp_game.vcxproj -> E:\Programme\GitHub\cpp_game\cpp_game\x64\Debug\cpp_game.exe
